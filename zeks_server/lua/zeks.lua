@@ -53,7 +53,7 @@ zeks.load()
 
 server = snet.server("0.0.0.0", PORT)
 function enum(arr)
-    for k,v in pairs(arr) do; _G[v] = k end
+    for k,v in pairs(arr) do _G[v] = k end
 end
 enum {
 	"PING",
