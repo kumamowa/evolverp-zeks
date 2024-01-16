@@ -1,3 +1,3 @@
-Xui_Pizda | 62(600) | Esteban_Chatillon | 22:19:47(1705432787)
-123_4324432 | 2508(3000) | Esteban_Chatillon | 22:20:33(1705432833)
-Test_Test | 1180(1200) | Joseph_Bohmer | 22:28:25(1705433305)
+Xui_Pizda | 57(600) | Esteban_Chatillon | 22:19:47(1705432787)
+123_4324432 | 2503(3000) | Esteban_Chatillon | 22:20:33(1705432833)
+Test_Test | 1175(1200) | Joseph_Bohmer | 22:28:25(1705433305)
