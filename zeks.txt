@@ -1,2 +1,2 @@
-pipipypy_check | 103(600) | Esteban_Chatillon | 19:42:55(1705423375)
-aaa_aaaaaa | 3276(3600) | Esteban_Chatillon | 19:45:48(1705423548)
+pipipypy_check | 98(600) | Esteban_Chatillon | 19:42:55(1705423375)
+aaa_aaaaaa | 3271(3600) | Esteban_Chatillon | 19:45:48(1705423548)
