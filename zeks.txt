@@ -1,2 +1,2 @@
-Francis_HartTest | 501(600) | Esteban_Chatillon | 16:03:44(1705496624)
-Esteban_ChatillonTest | 552(600) | Francis_Hart | 16:04:35(1705496675)
+Francis_HartTest | 496(600) | Esteban_Chatillon | 16:03:44(1705496624)
+Esteban_ChatillonTest | 547(600) | Francis_Hart | 16:04:35(1705496675)
